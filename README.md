@@ -31,6 +31,9 @@ And visit __localhost:8081__ to use mongo express to view the database directly.
 
 ## Whats unfinished?
 1. A proper display to list collection items
-2. Working update, delete and mark button
+2. Working update, delete and mark complete button
 3. Full documentation
+4. Input validation
+
+And other things i may miss.
 
